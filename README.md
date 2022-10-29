@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artyom1a&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom1a&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
